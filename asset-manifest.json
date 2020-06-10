@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/feed-reader/static/css/main.79c9f836.chunk.css",
+    "main.css": "/feed-reader/static/css/main.f09f7244.chunk.css",
     "main.js": "/feed-reader/static/js/main.1610adeb.chunk.js",
     "main.js.map": "/feed-reader/static/js/main.1610adeb.chunk.js.map",
     "runtime-main.js": "/feed-reader/static/js/runtime-main.c24f1ad0.js",
@@ -8,15 +8,15 @@
     "static/js/2.1335e72d.chunk.js": "/feed-reader/static/js/2.1335e72d.chunk.js",
     "static/js/2.1335e72d.chunk.js.map": "/feed-reader/static/js/2.1335e72d.chunk.js.map",
     "index.html": "/feed-reader/index.html",
-    "precache-manifest.0149faa1016036214b4d9770c4325310.js": "/feed-reader/precache-manifest.0149faa1016036214b4d9770c4325310.js",
+    "precache-manifest.433e63773e8ca3b91614a9d60496b759.js": "/feed-reader/precache-manifest.433e63773e8ca3b91614a9d60496b759.js",
     "service-worker.js": "/feed-reader/service-worker.js",
-    "static/css/main.79c9f836.chunk.css.map": "/feed-reader/static/css/main.79c9f836.chunk.css.map",
+    "static/css/main.f09f7244.chunk.css.map": "/feed-reader/static/css/main.f09f7244.chunk.css.map",
     "static/js/2.1335e72d.chunk.js.LICENSE.txt": "/feed-reader/static/js/2.1335e72d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c24f1ad0.js",
     "static/js/2.1335e72d.chunk.js",
-    "static/css/main.79c9f836.chunk.css",
+    "static/css/main.f09f7244.chunk.css",
     "static/js/main.1610adeb.chunk.js"
   ]
 }
