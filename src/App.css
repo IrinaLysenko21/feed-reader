@@ -1,4 +1,6 @@
 .items_list {
+  margin: 0;
+  padding: 15px;
   list-style-type: none;
 }
 
