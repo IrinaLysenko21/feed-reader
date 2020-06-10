@@ -1,0 +1,45 @@
+.items_list {
+  list-style-type: none;
+}
+
+.item {
+  margin-bottom: 15px;
+  border-bottom: 1px solid #000;
+}
+
+.item_options {
+  display: flex;
+}
+
+.item_option {
+  display: inline-block;
+  margin: 0 15px 10px 0;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.719);
+}
+
+.item_option-value {
+  font-size: 16px;
+  font-weight: 600;
+  color: rgb(0, 0, 0);
+}
+
+.item_title {
+  margin: 0 0 10px 0;
+  font-weight: 600;
+}
+
+.item_description {
+  margin: 0 0 10px 0;
+  font-size: 12px;
+}
+
+.content_wrapper {
+  display: flex;
+}
+
+.item_img {
+  margin: 0 10px 10px 0;
+  width: 200px;
+  height: 100%;
+}
