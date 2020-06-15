@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/feed-reader/static/css/main.f09f7244.chunk.css",
-    "main.js": "/feed-reader/static/js/main.1610adeb.chunk.js",
-    "main.js.map": "/feed-reader/static/js/main.1610adeb.chunk.js.map",
+    "main.js": "/feed-reader/static/js/main.78480c3a.chunk.js",
+    "main.js.map": "/feed-reader/static/js/main.78480c3a.chunk.js.map",
     "runtime-main.js": "/feed-reader/static/js/runtime-main.c24f1ad0.js",
     "runtime-main.js.map": "/feed-reader/static/js/runtime-main.c24f1ad0.js.map",
     "static/js/2.1335e72d.chunk.js": "/feed-reader/static/js/2.1335e72d.chunk.js",
     "static/js/2.1335e72d.chunk.js.map": "/feed-reader/static/js/2.1335e72d.chunk.js.map",
     "index.html": "/feed-reader/index.html",
-    "precache-manifest.433e63773e8ca3b91614a9d60496b759.js": "/feed-reader/precache-manifest.433e63773e8ca3b91614a9d60496b759.js",
+    "precache-manifest.47dcca518a9d815673f8b4ef4a130ed9.js": "/feed-reader/precache-manifest.47dcca518a9d815673f8b4ef4a130ed9.js",
     "service-worker.js": "/feed-reader/service-worker.js",
     "static/css/main.f09f7244.chunk.css.map": "/feed-reader/static/css/main.f09f7244.chunk.css.map",
     "static/js/2.1335e72d.chunk.js.LICENSE.txt": "/feed-reader/static/js/2.1335e72d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c24f1ad0.js",
     "static/js/2.1335e72d.chunk.js",
     "static/css/main.f09f7244.chunk.css",
-    "static/js/main.1610adeb.chunk.js"
+    "static/js/main.78480c3a.chunk.js"
   ]
 }
